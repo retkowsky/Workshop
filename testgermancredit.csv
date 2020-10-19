@@ -1,0 +1,11 @@
+ID,Age,Sex,Job,Housing,Saving accounts,Checking account,Credit amount,Duration,Purpose
+1,60,male,2,own,moderate,little,1169,6,radio/TV
+2,20,male,2,own,little,moderate,5951,48,radio/TV
+3,59,female,1,own,little,moderate,2096,12,education
+4,45,male,2,free,little,little,7882,42,furniture/equipment
+5,53,female,2,free,little,little,4870,24,car
+6,85,male,1,free,moderate,moderate,9055,36,education
+7,43,female,2,own,quite rich,moderate,2835,24,furniture/equipment
+8,65,male,3,rent,little,moderate,6948,36,car
+9,81,male,1,own,rich,moderate,3059,12,radio/TV
+10,28,female,3,own,little,moderate,5234,30,car
